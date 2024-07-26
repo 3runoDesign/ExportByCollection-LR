@@ -19,7 +19,7 @@ Este é um plugin para o Adobe Lightroom Classic que exporta fotos com pelo meno
 
 ## Instalação
 
-1. Clone este repositório ou baixe o arquivo ZIP:
+1. Clone este repositório ou baixe o arquivo [ZIP](https://github.com/3runoDesign/ExportByCollection-LR/archive/refs/heads/main.zip):
     ```bash
     git clone https://github.com/yourusername/ExportByCollection.git
     ```
