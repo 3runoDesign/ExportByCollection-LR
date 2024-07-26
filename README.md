@@ -70,6 +70,13 @@ Sinta-se à vontade para contribuir para este projeto! Para isso, siga as etapas
 4. Faça um push para a branch (`git push origin feature/MinhaNovaFuncionalidade`).
 5. Abra um Pull Request.
 
+## Doação
+
+Se você acha este plugin útil e deseja apoiar o desenvolvimento contínuo, considere fazer uma doação. Sua contribuição ajuda a manter o projeto e a desenvolver novas funcionalidades. 
+
+[**Faça uma doação**](https://nubank.com.br/cobrar/5l2eh/66a328b9-707b-4047-9560-df6d3eedc76d)
+
+
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](LICENSE).
